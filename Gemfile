@@ -53,3 +53,9 @@ group :development do
   gem 'spring'
 end
 
+# Use devise
+gem 'devise'
+
+# Use cancancan
+gem 'cancancan', '~> 1.10'
+
